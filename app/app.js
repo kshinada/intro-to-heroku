@@ -4,8 +4,7 @@ import {App, Platform} from 'ionic-angular';
 
 import {WelcomePage} from './pages/welcome/welcome';
 import {PropertyListPage} from './pages/property-list/property-list';
-//import {BrokerListPage} from './pages/broker-list/broker-list';
-import {BrokerListPage} from 'https://github.com/kshinada/intro-to-heroku';
+import {BrokerListPage} from './pages/broker-list/broker-list';
 import {FavoriteListPage} from './pages/favorite-list/favorite-list';
 import {PropertyService} from './services/property-service';
 import {BrokerService} from './services/broker-service';
